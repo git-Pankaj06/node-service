@@ -1,0 +1,10 @@
+{
+    "latitude": "<51.214005624409445>",
+    "longitude": "<6.748941454406442>",
+    "name": {
+		"default": "Cognigy GmbH"
+	},
+	"address": {
+		"default": "Speditionstraße 1, Düsseldorf, North Rhine-Westphalia 40221"
+	}
+}

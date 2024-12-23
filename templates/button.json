@@ -1,0 +1,22 @@
+{
+    "header": {
+            "default": "<This is the name of the list>"
+    },
+    "body": {
+            "default": "<This is text*>"
+    },
+    "buttons": [
+        {
+            "id": "<123>",
+            "title": {
+                "default": "<Button1>"
+            }
+        },
+        {
+            "id": "<1234>",
+            "title": {
+                "default": "<Button2>"
+            }
+        }
+    ]
+}

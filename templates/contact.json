@@ -1,0 +1,69 @@
+{
+    "addresses": [
+        {
+            "street": "Speditionstraße 1",
+            "city": "Düsseldorf",
+            "state": "North Rhine-Westphalia",
+            "zip": "40221",
+            "country": "Germany",
+            "country_code": "de",
+            "type": "HOME"
+        },
+        {
+            "street": " Speditionstraße 1",
+            "city": "Düsseldorf",
+            "state": "North Rhine-Westphalia",
+            "zip": "40221",
+            "country": "Germany",
+            "country_code": "de",
+            "type": "WORK"
+        }
+
+    ],
+    "birthday": "2017-12-10",
+    "emails": [
+        {
+            "email": "test@cognigy.com",
+            "type": "WORK"
+        },
+        {
+            "email": "test@whatsapp.com",
+            "type": "HOME"
+        }
+    ],
+
+    "name": {
+        "formatted_name": "John Doe",
+        "first_name": "John",
+        "last_name": "Dow",
+        "middle_name": "D.",
+        "suffix": "Jr",
+        "prefix": "Dr"
+    },
+    "org": {
+        "company": "Cognigy",
+        "department": "Conversational AI",
+        "title": "Manager"
+    },
+    "phones": [
+        {
+            "phone": "+49 (940) 555-1234",
+            "type": "HOME"
+        },
+        {
+            "phone": "+49 (650) 555-1234",
+            "type": "WORK",
+            "wa_id": "16505551234"
+        }
+    ],
+    "urls": [
+        {
+            "url": "https://www.cognigy.com",
+            "type": "WORK"
+        },
+        {
+            "url": "https://www.whatsapp.com",
+            "type": "HOME"
+        }
+    ]
+}

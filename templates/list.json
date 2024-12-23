@@ -1,0 +1,43 @@
+{
+    "header": {
+        "default": "<This is the name of the list>"
+    },
+    "footer": {
+        "default": "<Subtext of the list>"
+    },
+    "body": {
+        "default": "<This is text*>"
+    },
+    "actionTitle": {
+        "default": "<This is text*>"
+    },
+    "options": [
+        {
+            "id": "<Item ID>1",
+            "title": {
+                "default": "<Item Title>"
+            },
+            "description": {
+                "default": "<Item Description>"
+            }
+        },
+        {
+            "id": "<Item ID>2",
+            "title": {
+                "default": "<Item Title>"
+            },
+            "description": {
+                "default": "<Item Description>"
+            }
+        },
+        {
+            "id": "<Item ID>3",
+            "title": {
+                "default": "<Item Title>"
+            },
+            "description": {
+                "default": "<Item Description>"
+            }
+        }
+    ]
+}
