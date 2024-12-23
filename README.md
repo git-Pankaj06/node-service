@@ -1,1 +1,2 @@
-# node-service
+# bot-server
+Bot server
